@@ -37,4 +37,6 @@ end
 
 # Define your play method below
 def play()
-  
+  counter = 0 
+  while counter < 9:
+    
